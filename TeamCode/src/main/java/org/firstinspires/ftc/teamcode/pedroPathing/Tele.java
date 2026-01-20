@@ -64,6 +64,8 @@ public class Tele extends RobotBase {
         shooter.pitchDegree(angle);
 
 
+
+
 //        if(gamepad1.y) angle+=0.05;
 //        else if(gamepad1.a) angle-=0.05;
 //        angle = clamp(angle,0,1);
