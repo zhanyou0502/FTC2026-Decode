@@ -67,10 +67,7 @@ public class Tele extends RobotBase {
 //        else if(gamepad1.a) angle-=0.05;
 //        angle = clamp(angle,0,1);
 //        shooter.arm.setPosition(angle);
-
-
 //        colorSpinner.detect3posePRO();
-//
 //        test3 = clamp(test3, 24, 49);
 //        shooter.pitchDegree(test3);
 
